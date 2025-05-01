@@ -26,3 +26,23 @@ Model performance will mainly be assessed using metrics like the Dice Similarity
 
 Flowchart
 <img width="268" alt="image" src="https://github.com/user-attachments/assets/7a8ac12d-580f-489a-8fae-5ae2bc9ead1b" />
+
+Classification Report
+<img width="327" alt="image" src="https://github.com/user-attachments/assets/30afcbff-477f-46c8-9a2f-72552869e110" />
+
+Visualization
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/1e6203cf-33f2-4e34-87c3-cc2709ee10a1" />
+
+<img width="594" alt="image" src="https://github.com/user-attachments/assets/a0a29bee-f766-4168-8342-157683177edb" />
+<img width="596" alt="image" src="https://github.com/user-attachments/assets/c911dc6b-4bf2-4763-bdda-e95c5a0aa805" />
+
+Validation Loss and Accuracy
+<img width="595" alt="image" src="https://github.com/user-attachments/assets/0f6eed06-095e-46b5-8b12-0726dd4e0495" />
+
+Dice Coeffiecient and IoU Score
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/4698e3dc-bbc5-4d6d-866a-00bef55956eb" />
+
+
+
+
+
